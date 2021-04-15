@@ -1,4 +1,4 @@
-```
+```cpp
 #include <iostream>
 
 using namespace std;
@@ -10,8 +10,8 @@ int main(){
 ```
 QA automaion engineer.
 
-[] 2019-2021 nexign
-[] 2021-current at-counsulting
+- 2019-2021 nexign
+- 2021-current at-counsulting
 
 try in Cpython extension
 
