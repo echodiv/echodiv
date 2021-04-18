@@ -8,6 +8,7 @@ int main(){
     return 0;
 }
 ```
+### About me
 QA automaion engineer.
 
 - 2019-2021 nexign
@@ -22,3 +23,10 @@ Languages and technologies:
 4. flask
 5. sql
 
+### Projects:
+#### 1. [HardChat](https://github.com/echodiv/hard_chat)
+  - Flask
+  - SqlAlchemy
+  - BootStrap 4
+  - UnitTest
+  - github actions
