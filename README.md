@@ -30,3 +30,8 @@ Languages and technologies:
   - BootStrap 4
   - UnitTest
   - github actions
+#### 2. [Closet Shop](https://github.com/echodiv/django_shop)
+  - Django
+  - UnitTest
+  - github actions
+  - RabbitMQ
