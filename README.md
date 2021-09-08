@@ -1,49 +1,58 @@
-```cpp
-#include <iostream>
+## Main
+```go
+package main
 
-using namespace std;
+import "fmt"
 
-int main(){
-    cout << "Hello World!";
-    return 0;
-}
-```
-### About me
-QA automaion engineer.
-
-- 2019-2021 nexign
-- 2021-2021 at-counsulting
-
-try in Cpython extension
-
-Languages and technologies:
-1. pytest
-2. django
-3. flask
-4. robot framework
-5. requests
-6. sql
-
-### Projects:
-#### 1. [Users CRUD backend](https://github.com/echodiv/users_crud_backend)
-
-Simple CRUD for accounts managing. 
-Have [API](https://github.com/echodiv/users_crud_backend/blob/develop/docs/openapi-schema.yaml) and web iterface
+func main() {
+    var email string = "echodiv@outlook.com"
+    var telegram string = "sergey_batalov"
     
-  - Django
-  - Django REST framework
-  - github actions
-  - docker-compose
-  - mysql
-  - Nginx
-#### 2. [HardChat](https://github.com/echodiv/hard_chat)
-  - Flask
-  - SqlAlchemy
-  - BootStrap 4
-  - UnitTest
-  - github actions
-#### 3. [Closet Shop](https://github.com/echodiv/django_shop)
-  - Django
-  - UnitTest
-  - github actions
-  - RabbitMQ
+    fmt.Print("Hello World!")
+    fmt.Print("My name is Sergey Batalov")
+    fmt.Print("I'm living in St. Petersburg")
+    fmt.Printf("Contact info: Email: %s, Telegram: %s\n", email, telegram)   
+}
+
+```
+## Experience
+### QA automaion engineer.
+
+- 2019-2021 Nexign
+
+Testing diameter, REST, ldap backends. Make and edit LUA bundles for C++ tcp server. Write some python libraries with checkers.
+```
+- RobotFramework
+- Python2.7
+- Oracle Database
+- Ansible-playbook
+- SQL
+- LUA
+```
+- 2021-2021 AT-Counsulting
+
+Testing a complex web form of a government CRUD service for documents.
+```
+- Python3.5
+- Selenium
+- Requests
+- Pytest
+- SQL
+```
+
+### Backend developer
+- 01.06.2021 - 28.08.2021 Yandex Academy project
+```
+- Python3.9
+- AIOhttp
+- PostgreSQL
+- Pytest
+- Alembic
+- SQLAlchemy
+```
+
+## Education
+Name | About
+---- | -----
+Saint-Petersburg State University of Aerospace Instrumentation (SUAI) 2014 - 2018 | Institute of Radio Engineering, Electronics and Communication Specialized in Instrumentation
+Backend Development School at Yandex Academy 2021 | Completed the training and successfully defended the project (Python3.9, aiohttp, SQLAlchemy, PostgreSQL, alembic)
