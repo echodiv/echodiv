@@ -16,20 +16,20 @@ func main() {
 
 ```
 ## Experience
-### QA automaion engineer.
-
-- 2019-2021 Nexign
-
-Testing diameter, REST, ldap backends. Make and edit LUA bundles for C++ tcp server. Write some python libraries with checkers.
+### Backend developer
+- 06.2021 — 08.2021 Yandex Academy project
 ```
-- RobotFramework
-- Python2.7
-- Oracle Database
-- Ansible-playbook
-- SQL
-- LUA
+- Python3.9
+- AIOhttp
+- PostgreSQL
+- Pytest
+- Alembic
+- SQLAlchemy
 ```
-- 2021-2021 AT-Counsulting
+
+### QA automaion engineer
+
+- 02.2021 — 05.2021 AT-Counsulting
 
 Testing a complex web form of a government CRUD service for documents.
 ```
@@ -40,15 +40,16 @@ Testing a complex web form of a government CRUD service for documents.
 - SQL
 ```
 
-### Backend developer
-- 01.06.2021 - 28.08.2021 Yandex Academy project
+- 08.2019 — 02.2021 Nexign
+
+Testing diameter, REST, ldap backends. Make and edit LUA bundles for C++ tcp server. Write some python libraries with checkers.
 ```
-- Python3.9
-- AIOhttp
-- PostgreSQL
-- Pytest
-- Alembic
-- SQLAlchemy
+- RobotFramework
+- Python2.7
+- Oracle Database
+- Ansible-playbook
+- SQL
+- LUA
 ```
 
 ## Education
