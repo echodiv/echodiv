@@ -17,6 +17,11 @@ func main() {
 ```
 ## Experience
 ### Backend developer
+- 01.2022 - CURRENT Semrush
+```
+- Go
+- PostgreSQL
+```
 - 06.2021 — 08.2021 Yandex Academy project
 ```
 - Python3.9
