@@ -9,20 +9,23 @@ func main() {
     var telegram string = "sergey_batalov"
     
     fmt.Print("Hello World!")
-    fmt.Print("My name is Sergey Batalov")
-    fmt.Print("I'm living in St. Petersburg")
+    fmt.Print("I am Sergey Batalov, backend developer")
     fmt.Printf("Contact info: Email: %s, Telegram: %s\n", email, telegram)   
 }
 
 ```
 ## Experience
 ### Backend developer
-- 01.2022 - CURRENT Semrush
+
+- 01.2022 - PRESENT Semrush
+
 ```
 - Go
-- PostgreSQL
+- ClickHouse
 ```
+
 - 06.2021 — 08.2021 Yandex Academy project
+
 ```
 - Python3.9
 - AIOhttp
