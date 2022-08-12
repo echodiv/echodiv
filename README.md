@@ -22,6 +22,8 @@ func main() {
 ```
 - Go
 - ClickHouse
+- PostgreSQL
+- k8s
 ```
 
 - 06.2021 — 08.2021 Yandex Academy project
