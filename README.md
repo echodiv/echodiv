@@ -8,8 +8,8 @@ func main() {
     var email string = "echodiv@outlook.com"
     var telegram string = "sergey_batalov"
     
-    fmt.Print("Hello World!")
-    fmt.Print("I am Sergey Batalov, backend developer")
+    fmt.Println("Hello World!")
+    fmt.Println("I am Sergey Batalov, backend developer")
     fmt.Printf("Contact info: Email: %s, Telegram: %s\n", email, telegram)   
 }
 
