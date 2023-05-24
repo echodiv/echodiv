@@ -17,7 +17,7 @@ func main() {
 ## Experience
 ### Backend developer
 
-- 01.2022 - PRESENT Semrush<br />
+- 01.2022 - 03.2023 Semrush<br />
 🇷🇸 Belgrade <br/>
 🇷🇺 Saint Petersburg 
 
