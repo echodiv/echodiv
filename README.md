@@ -41,6 +41,7 @@ func main() {
 🇷🇸 Belgrade <br/>
 🇷🇺 Saint Petersburg 
 
+Development of the server part of the data analytics service. Writing and optimizing Clickhouse queries.
 ```
 - Go
 - ClickHouse
@@ -66,7 +67,7 @@ func main() {
 - 02.2021 — 05.2021 AT-Counsulting<br />
 🇷🇺 Saint Petersburg 
 
-Testing a complex web form of a government CRUD service for documents.
+Testing a complex web document management platform. Сreation of testing infrastructure.
 ```
 - Python 3.5
 - Selenium
@@ -79,7 +80,7 @@ Testing a complex web form of a government CRUD service for documents.
 - 08.2019 — 02.2021 Nexign<br />
 🇷🇺 Saint Petersburg 
 
-Testing diameter, REST, ldap backends. Make and edit LUA bundles for C++ tcp server. Write some python libraries with checkers.
+Testing PCRF component. Areas: diameter, REST, ldap backends. Make and edit LUA bundles for C++ tcp server. Write some python libraries with checkers.
 ```
 - RobotFramework
 - Python 2.7
