@@ -17,6 +17,17 @@ func main() {
 ## Experience
 ### Backend developer
 
+- 03.2023 - current Yadro telecom<br />
+🇷🇺 Saint Petersburg 
+
+```
+- Go
+- RabbitMQ
+- PostgreSQL
+- k8s
+- gRPC
+```
+
 - 01.2022 - 03.2023 Semrush<br />
 🇷🇸 Belgrade <br/>
 🇷🇺 Saint Petersburg 
