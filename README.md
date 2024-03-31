@@ -18,7 +18,7 @@ func main() {
 	)
 
 	fmt.Println("Hello World!")
-	fmt.Printf("I am Sergey Batalov, software engener with experience in %s\n", strings.Join(experience, ", "))
+	fmt.Printf("I am Sergey Batalov, software engineer with experience in %s\n", strings.Join(experience, ", "))
 	fmt.Printf("Contact info: Email: %s, Telegram: %s\n", email, telegram)
 }
 
