@@ -2,15 +2,24 @@
 ```go
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"strings"
+)
+
+var experience = []string{
+	"golang", "python", "k8s", "rabbitMQ", "postgreSQL", "gRPC", "OpenAPI", "testing automation",
+}
 
 func main() {
-    var email string = "echodiv@outlook.com"
-    var telegram string = "sergey_batalov"
-    
-    fmt.Println("Hello World!")
-    fmt.Println("I am Sergey Batalov, backend developer")
-    fmt.Printf("Contact info: Email: %s, Telegram: %s\n", email, telegram)   
+	var (
+		email    = "echodiv@outlook.com"
+		telegram = "sergey_batalov"
+	)
+
+	fmt.Println("Hello World!")
+	fmt.Printf("I am Sergey Batalov, software engener with experience in %s\n", strings.Join(experience, ", "))
+	fmt.Printf("Contact info: Email: %s, Telegram: %s\n", email, telegram)
 }
 
 ```
